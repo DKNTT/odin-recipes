@@ -1,0 +1,31 @@
+* {
+    background-color: rgba(192, 194, 191, 0.274);
+}
+
+h1 {
+    color: green;
+    text-align: center;
+}
+
+h2 {
+    color: rgb(154, 196, 77)
+}
+
+.main-list {
+    background-color: rgba(40, 155, 116, 0.445);
+}
+
+.ingredients-and-steps-list {
+    background-color: rgba(67, 74, 175, 0.5);
+    font-style: italic;
+}
+
+.description {
+    font-weight: bold;
+}
+
+#egg-pic,
+#steak-pic {
+    width: 600px;
+    height: auto;
+}
