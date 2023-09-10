@@ -12,9 +12,20 @@ h2 {
     color: rgb(154, 196, 77)
 }
 
-.main-list {
+.main-list-box {
     background-color: rgba(40, 155, 116, 0.445);
+    display: block;
+    width: 50%;
+    padding: 10px;
+    margin: 0 auto;
 }
+.main-list {
+    padding: 10px;
+    display: block;
+    margin: 0 auto;
+    width: 250px;
+}
+
 
 .ingredients-and-steps-list {
     background-color: rgba(67, 74, 175, 0.5);
